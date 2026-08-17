@@ -9,6 +9,9 @@ class Solution {
             n /= 10;
             i++;
         }
+        if(s == 2) {
+            return arr[0] * arr[1];
+        }
         Arrays.sort(arr);
         return arr[s-1] * arr[s-2];
     }
