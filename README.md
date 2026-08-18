@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0877-stone-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
