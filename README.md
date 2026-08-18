@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
