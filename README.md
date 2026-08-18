@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0169-majority-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0169-majority-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -83,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
