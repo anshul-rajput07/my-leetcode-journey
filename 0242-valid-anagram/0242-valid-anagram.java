@@ -8,7 +8,7 @@ class Solution {
             arr[s.charAt(i) - 'a']++;
             arr[t.charAt(i) - 'a']--;
         }
-        for(int i = 0;i < arr.length;i++){
+        for(int i = 0;i < 26;i++){
             if(arr[i] != 0){
                 return false;
             }
