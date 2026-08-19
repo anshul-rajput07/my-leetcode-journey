@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
