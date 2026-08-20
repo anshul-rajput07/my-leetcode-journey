@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3024-type-of-triangle](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3024-type-of-triangle](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Minimax
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3024-type-of-triangle](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
