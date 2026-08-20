@@ -7,13 +7,10 @@ class Solution {
         if(a==b && b==c){
             return "equilateral";
         }
-        else if(a != b && b != c && a != c){
-            return "scalene";
-        }
-        else if(a==b || b==c || c==a){
+        if(a==b || b==c || c==a){
             return "isosceles";
         }
-        return "0";
+        return "scalene";
 
     }
 }
