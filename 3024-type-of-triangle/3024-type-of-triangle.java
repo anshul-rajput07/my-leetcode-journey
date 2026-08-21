@@ -11,6 +11,5 @@ class Solution {
             return "isosceles";
         }
         return "scalene";
-
     }
 }
