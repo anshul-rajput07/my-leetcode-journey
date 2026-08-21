@@ -8,9 +8,6 @@ class Solution {
             else if(i<0){
                 x *= -1;
             }
-            else if(i>0){
-                x *= 1;
-            }
         }
         return x;
     }
