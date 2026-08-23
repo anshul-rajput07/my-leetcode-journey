@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0371-sum-of-two-integers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0292-nim-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
