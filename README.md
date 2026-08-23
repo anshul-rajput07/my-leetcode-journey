@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2413-smallest-even-multiple](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3024-type-of-triangle) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
