@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0136-single-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0292-nim-game) |
