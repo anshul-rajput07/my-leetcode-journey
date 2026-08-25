@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3024-type-of-triangle](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
