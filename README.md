@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
+| [1773-count-items-matching-a-rule](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1773-count-items-matching-a-rule](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
 ## Two Pointers
