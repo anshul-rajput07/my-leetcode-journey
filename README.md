@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0922-sort-array-by-parity-ii) |
 ## Divide and Conquer
 |  |
