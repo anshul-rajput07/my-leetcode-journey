@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0877-stone-game) |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
