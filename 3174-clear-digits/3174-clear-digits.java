@@ -14,10 +14,10 @@ class Solution {
                 st1.push(ch);
             }
         }
-        String ans = "";
+        StringBuilder ans = new StringBuilder();
         for(char a : st1){
-            ans += a;
+            ans.append(a);
         }
-        return ans;
+        return ans.toString();
     }
 }
