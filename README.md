@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0922-sort-array-by-parity-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1773-count-items-matching-a-rule](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0922-sort-array-by-parity-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3024-type-of-triangle](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0922-sort-array-by-parity-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
