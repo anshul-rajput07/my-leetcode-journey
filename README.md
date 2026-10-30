@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0704-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0922-sort-array-by-parity-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0412-fizz-buzz) |
+| [0821-shortest-distance-to-a-character](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0633-sum-of-square-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
