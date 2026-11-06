@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0392-is-subsequence) |
