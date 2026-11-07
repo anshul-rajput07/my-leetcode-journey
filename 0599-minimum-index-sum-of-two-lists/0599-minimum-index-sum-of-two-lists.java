@@ -12,6 +12,9 @@ class Solution {
             if(hash.containsKey(list2[i])){
                 count = hash.get(list2[i]);
                 int total = count + i;
+                if(total > min){
+                    break;
+                }
                 if(total < min){
                     ans.clear();
                     ans.add(list2[i]);
