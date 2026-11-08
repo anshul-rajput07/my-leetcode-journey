@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0371-sum-of-two-integers) |
+| [0461-hamming-distance](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
