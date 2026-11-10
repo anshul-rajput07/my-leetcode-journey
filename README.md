@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0821-shortest-distance-to-a-character) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
