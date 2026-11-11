@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0392-is-subsequence) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1929-concatenation-of-array) |
