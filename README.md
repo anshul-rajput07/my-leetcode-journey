@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0645-set-mismatch) |
+| [1189-maximum-number-of-balloons](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
