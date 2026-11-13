@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0821-shortest-distance-to-a-character](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
