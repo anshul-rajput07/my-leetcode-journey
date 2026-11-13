@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0875-koko-eating-bananas) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0645-set-mismatch) |
+| [0804-unique-morse-code-words](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [1189-maximum-number-of-balloons](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0804-unique-morse-code-words](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0844-backspace-string-compare) |
