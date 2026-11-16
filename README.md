@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3174-clear-digits) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3174-clear-digits) |
