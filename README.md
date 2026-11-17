@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1436-destination-city) |
 | [1480-running-sum-of-1d-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1773-count-items-matching-a-rule](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [1189-maximum-number-of-balloons](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1436-destination-city](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3668-restore-finishing-order](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3668-restore-finishing-order) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
+| [1436-destination-city](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1436-destination-city) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
