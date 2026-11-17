@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1773-count-items-matching-a-rule](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1822-sign-of-the-product-of-an-array) |
