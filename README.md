@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2390-removing-stars-from-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3174-clear-digits) |
 ## Two Pointers
