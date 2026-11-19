@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0371-sum-of-two-integers) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0412-fizz-buzz) |
