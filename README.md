@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0242-valid-anagram) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0169-majority-element) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/0171-excel-sheet-column-number) |
