@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3024-type-of-triangle) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/2413-smallest-even-multiple) |
 ## Brainteaser
 |  |
@@ -367,4 +370,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1352-product-of-the-last-k-numbers) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/anshul-rajput07/my-leetcode-journey/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
